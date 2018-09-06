@@ -3,3 +3,7 @@
 /Java-8/.classpath
 /Java-8/.gitignore
 /Java-8/.project
+.idea
+*.iml
+out
+gen
